@@ -1,6 +1,6 @@
-# Fcitx5 Dark Transparent Orange
+# Fcitx5 Dark Transparent DarkRed
 
-一个我自己橙色主题配色的 [fcitx5-dark-transparent](https://github.com/hosxy/fcitx5-dark-transparent) fork，默认的紫色和我的桌面主题色不太搭配。
+一个我自己暗红色主题配色的 [fcitx5-dark-transparent](https://github.com/hosxy/fcitx5-dark-transparent) fork，默认的紫色和我的桌面主题色不太搭配。
 
 ## 使用方式
 
@@ -8,10 +8,10 @@
 
 ```shell
 # make fcitx5 themes directory
-mkdir -p ~/.local/share/fcitx5/themes/fcitx5-dark-transparent-orange
+mkdir -p ~/.local/share/fcitx5/themes/fcitx5-dark-transparent-darkred
 
 # clone the repository into fcitx5's themes directory
-git clone https://github.com/k4yt3x/fcitx5-dark-transparent-orange.git ~/.local/share/fcitx5/themes/fcitx5-dark-transparent-orange
+git clone https://github.com/k4yt3x/fcitx5-dark-transparent-darkred.git ~/.local/share/fcitx5/themes/fcitx5-dark-transparent-darkred
 ```
 
 ### 2. 修改配置文件
@@ -29,7 +29,7 @@ PerScreenDPI=True
 Font="Iosevka Regular 14"
 
 # 主题
-Theme=fcitx5-dark-transparent-orange
+Theme=fcitx5-dark-transparent-darkred
 ```
 
 ## 截图
